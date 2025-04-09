@@ -3,7 +3,7 @@
 title: Walid Maalej
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Personal website of Prof. Maalej.
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -173,7 +173,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: M-Blog
   blog__description:
 
 
@@ -185,8 +185,7 @@ footer__background__image: "/images/bg.jpg"
 # Contact Settings
 contact:
   email: movepvpd # Add your form_id
-  description: I am always open and thankful for feedback, questions, and requests. You might use this form. If you are a student at the University of Hamburg, better email me, my assistant, or just talk to me after one of the courses or whereever you see me on Campus.
-
+  description: "I am always open and thankful for feedback, questions, and requests. If you don't know me in person, the best way to contact me is via Email (firstname.familyname@uni-hamburg.de). You could also use this form if you want. If you see my at an event, please talk to me directly. This is easier. If you are a student at the University of Hamburg, also email me, email my assistant, or just talk to me after one of the courses or wherever you see me on Campus. Please also keep in mind that I get a lot of emails and might not be able to react as quick as you expected. I might also miss your message or simply forget to get back to you. Feel free to follow-up if this makes sense. Thank you."
 
 
 # NOTE
@@ -196,7 +195,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Confirmation bias, Oh confirmation bias!
-description: Confirmation bias is one of the most dangerous human biases, particulary when it is combined with a lack of knowledge in a certain topic.  
+description: Confirmation bias is one of the most dangerous human biases, particularly when it is combined with a lack of knowledge in a certain topic.  
 date: 2024-04-01 12:01:35 
 image: '/images/confirmation-bias-1.jpg'
 image_caption: 'Photo by W. Maalej on in India'

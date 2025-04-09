@@ -1,0 +1,29 @@
+---
+layout: post
+title: Congratulations Dr. Pham!
+description: Dr. Dieu-Pham successfully defended her doctoral thesis on "Sustainability-Centered Software Design". I was lucky to mentor her and supervise the work.  
+date: 2023-12-01 12:01:35 
+image: '/images/yen-rigo-1.jpg'
+#image_caption: 'Photo by W. Maalej on in India'
+tags: [requirements and design, research, sustainability]
+---
+
+This is always a very special moment! Not only for the fresh PhD graduates, but also for the supervisors: A moment of joy, of success, of relief, of fulfillment, and yes a bit of proudness too. 
+
+Congratulations to Yen who recently completed and defended her doctoral project at our informatics department at University of Hamburg under my guidance: DR. Yen Dieu Pham! 
+
+Yen's doctoral thesis was on 
+
+🌻 Sustainability-Centered Software Design 🌻 
+
+She ran multiple solid empirical studies with software designers and other stakeholders to understand their perspective on sustainability, challenges encountered, and what changes in the requirements and development processes can make (measurable) impact towards higher sustainability goals (including ecological, social, economic, and design-aesthetic sustainability a.o). 
+Yen then suggested a conceptual framework and a set of pragmatic tools to support software teams towards a sustainability-centered software design---inspired from other disciplines such as psychology and architecture.
+
+Yen achievement is particularly remarkable since she originally comes from a non-computer-science background. She fought her way through the technical challenges, the new community, and new research culture. She managed to use her backgrounds in building architecture as an advantage for her research (and not a disadvantage). 
+
+Check Yen’s entire [doctoral thesis here](https://ediss.sub.uni-hamburg.de/bitstream/ediss/10143/1/2023_03_09_FINAL_Upload.pdf). 
+
+Or read one of her papers published at IEEE RE'21, IEEE RE'22, or recently at IEEE Computer (check e.g. google scholar for the links). 
+
+ 🎉 Congrats Dr. Yen and keep it up! 🎉
+

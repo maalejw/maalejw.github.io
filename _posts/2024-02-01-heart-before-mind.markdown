@@ -15,12 +15,12 @@ To mitigate this, I thought I should start with a strong preamble: That we are a
 Why?
 
 Stressing that we should not get emotional did not change anything. 
-After my preamble, I started motivating to the topic with an own personal hashtag#story and some hashtag#humour. Suddenly, I saw how everyone was empathetic with me. How all were listening carefully. My hashtag#arguments started making their ways into peoples’ minds. We had a wonderful exchange. With hashtag#emotions but also with plenty of hashtag#truelistening and knowledge exchange.
+After my preamble, I started motivating to the topic with an own personal hashtag#story and some humor. Suddenly, I saw how everyone was empathetic with me. How all were listening carefully. My hashtag#arguments started making their ways into peoples’ minds. We had a wonderful exchange. With hashtag#emotions but also with plenty of ``true listening'' and knowledge exchange.
 
 So my hashtag#learnings were as simple as this: 
 
-* Humans are hashtag#social beings; are hashtag#emotional beings. It’s a myth to assume that we can completely deactivate emotions and activate only a hashtag#rationale-based reasoning-mode. Particularly in an hashtag#opinionated discussion. 
+* Humans are hashtag#social beings; are emotional beings. It’s a myth to assume that we can completely deactivate emotions and activate only a hashtag#rationale-based reasoning-mode. Particularly in an hashtag#opinionated discussion. 
 
 * A better way is to first win the hashtag#empathy and perhaps the sympathy of the audience. Establish hashtag#positiveEmotions instead of negative emotions. hashtag#WinTheHearts. This will bring the brains into a reception mode: start reasoning, and understanding. 
 
-* People, also smart people, might have completely hashtag#parallelnarratives, an “alternative model of the reality”, which makes perfect sense to them. Either due to lack of context knowledge, prejudices, strong confirmation bias etc. "Throwing facts" at them could become counterproductive, if you want to get really heard. It’s important to also be empathetic with them too and give them the space. Carefully considering their narratives and arguments can be tedious but usually brings advantages to you. Don't expect to change their opinions. Just make sure that they actually hashtag#listen and hashtag#understand your points.
+* People, also smart people, might have completely parallel narratives, an “alternative model of the reality”, which makes perfect sense to them. Either due to lack of context knowledge, prejudices, strong confirmation bias etc. "Throwing facts" at them could become counterproductive, if you want to get really heard. It’s important to also be empathetic with them too and give them the space. Carefully considering their narratives and arguments can be tedious but usually brings advantages to you. Don't expect to change their opinions. Just make sure that they actually hashtag#listen and hashtag#understand your points.
